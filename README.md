@@ -1,7 +1,6 @@
-.repohead h1 strong a {
-         display: none;
-     }
-
+.repository-content .Layout-main h1 {
+display: none;
+}
 ## Понедельник
 1. **Классный час**  
 2. **География**  
